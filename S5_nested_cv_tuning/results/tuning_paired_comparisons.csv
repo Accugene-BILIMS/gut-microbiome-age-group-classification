@@ -1,0 +1,10 @@
+comparison,mean_diff,sd_diff,splits_positive,n_splits
+k=10: tuned − default,0.0075,0.0182,33,50
+k=15: tuned − default,0.008,0.0169,33,50
+k=100: tuned − default,0.0071,0.0201,32,50
+k=783: tuned − default,0.0079,0.0268,34,50
+tuned: k=10 − k=783,-0.0611,0.0293,1,50
+tuned: k=15 − k=783,-0.0557,0.0275,0,50
+tuned: k=100 − k=783,-0.0035,0.017,18,50
+tuned: k=15 − k=10,0.0053,0.0216,27,50
+default: k=15 − k=10,0.0048,0.0298,26,50

@@ -1,0 +1,9 @@
+metric,estimate,ci_low,ci_high
+auc_macro,0.7573,0.6865,0.8294
+accuracy,0.4722,0.3889,0.5556
+balanced_accuracy (macro sensitivity),0.6363,0.5386,0.7313
+specificity_macro,0.7875,0.7514,0.8237
+f1_macro,0.4581,0.3767,0.5397
+auc_10s,0.7086,0.5958,0.8173
+auc_20s_40s,0.6808,0.576,0.7771
+auc_50s_plus,0.8824,0.7613,0.9663

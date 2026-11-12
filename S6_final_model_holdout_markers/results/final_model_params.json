@@ -1,0 +1,23 @@
+{
+  "params": {
+    "max_depth": 13,
+    "min_samples_split": 5,
+    "min_samples_leaf": 6,
+    "max_leaf_nodes": 58,
+    "max_features": "log2"
+  },
+  "n_estimators": 300,
+  "cv5_auc_on_train": 0.7371598639455783,
+  "panel": [
+    "d__Bacteria;p__Firmicutes_C;c__Negativicutes;o__Acidaminococcales;f__Acidaminococcaceae;g__Phascolarctobacterium_A",
+    "d__Bacteria;p__Firmicutes_A;c__Clostridia_258483;o__Oscillospirales;f__Acutalibacteraceae;g__UMGS1071",
+    "d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales_595427;f__Burkholderiaceae_A_595427;g__Parasutterella",
+    "d__Bacteria;p__Firmicutes_A;c__Clostridia_258483;o__Oscillospirales;f__Acutalibacteraceae;g__Clostridium_A",
+    "d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides_H",
+    "d__Bacteria;p__Firmicutes_C;c__Negativicutes;o__Veillonellales;f__Veillonellaceae;g__Veillonella_A",
+    "d__Bacteria;p__Firmicutes_D;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus",
+    "d__Bacteria;p__Firmicutes_A;c__Clostridia_258483;o__Lachnospirales;f__Lachnospiraceae;g__Ventrimonas",
+    "d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Bifidobacteriaceae;g__Bifidobacterium_388775",
+    "d__Bacteria;p__Firmicutes_A;c__Clostridia_258483;o__Lachnospirales;f__Lachnospiraceae;g__Roseburia"
+  ]
+}

@@ -1,0 +1,4 @@
+"model","term","Df","SumOfSqs","R2","F","Pr(>F)"
+"age_group_only","Model",2,5.62245684071771,0.00506431901259907,9.30469710950927,0.001
+"age_group_only","Residual",3656,1104.58739106383,0.994935680987401,NA,NA
+"age_group_only","Total",3658,1110.20984790454,1,NA,NA

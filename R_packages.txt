@@ -1,0 +1,3 @@
+# R 4.3.2
+Maaslin2 1.16.0   Bioconductor: BiocManager::install("Maaslin2")
+vegan    2.7.1    CRAN (with permute 0.9.8)

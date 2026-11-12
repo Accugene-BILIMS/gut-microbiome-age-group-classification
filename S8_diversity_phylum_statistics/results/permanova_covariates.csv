@@ -1,0 +1,8 @@
+"model","term","Df","SumOfSqs","R2","F","Pr(>F)"
+"covariate_adjusted_marginal","Sex",1,7.05582805632343,0.00635540035033998,23.5818757564985,0.001
+"covariate_adjusted_marginal","Diet",4,2.29169735568212,0.00206420197047212,1.91481856848676,0.001
+"covariate_adjusted_marginal","Drug",6,2.66459321387379,0.00240008068646036,1.48426014186638,0.006
+"covariate_adjusted_marginal","Disease_pr",1,0.643563526303524,0.000579677371371018,2.15090773153161,0.017
+"covariate_adjusted_marginal","Age_group3",2,5.20902044363697,0.00469192419205134,8.70475243545793,0.001
+"covariate_adjusted_marginal","Residual",3644,1090.3050165616,0.98207110900654,NA,NA
+"covariate_adjusted_marginal","Total",3658,1110.20984790454,1,NA,NA

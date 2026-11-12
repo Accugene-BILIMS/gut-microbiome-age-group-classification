@@ -1,0 +1,11 @@
+genus,detected_external_%,detected_train_%,median_external_%abund,median_train_%abund
+g__Phascolarctobacterium_A,66.667,50.238,0.816,0.011
+g__UMGS1071,72.222,68.333,0.036,0.054
+g__Parasutterella,58.333,36.667,0.03,0.0
+g__Clostridium_A,48.148,51.905,0.0,0.018
+g__Bacteroides_H,100.0,83.333,4.075,1.333
+g__Veillonella_A,69.444,62.143,0.043,0.029
+g__Streptococcus,95.37,95.952,0.245,0.428
+g__Ventrimonas,74.074,80.0,0.141,0.337
+g__Bifidobacterium_388775,100.0,94.048,1.91,1.605
+g__Roseburia,84.259,71.429,0.524,0.178

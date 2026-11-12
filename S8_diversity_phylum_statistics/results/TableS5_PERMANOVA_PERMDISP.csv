@@ -1,0 +1,21 @@
+model,term,Df,SumOfSqs,R2,F,Pr(>F),group,n,mean_distance_to_centroid,sd,permutest_F,permutest_p,subsamples_min,subsamples_median,subsamples_max
+age_group_only,Model,2.0,5.62245684071771,0.005064319012599,9.30469710950927,0.001,,,,,,,,,
+age_group_only,Residual,3656.0,1104.58739106383,0.994935680987401,,,,,,,,,,,
+age_group_only,Total,3658.0,1110.20984790454,1.0,,,,,,,,,,,
+covariate_adjusted_marginal,Sex,1.0,7.05582805632343,0.0063554003503399,23.5818757564985,0.001,,,,,,,,,
+covariate_adjusted_marginal,Diet,4.0,2.29169735568212,0.0020642019704721,1.91481856848676,0.001,,,,,,,,,
+covariate_adjusted_marginal,Drug,6.0,2.66459321387379,0.0024000806864603,1.48426014186638,0.006,,,,,,,,,
+covariate_adjusted_marginal,Disease_pr,1.0,0.643563526303524,0.000579677371371,2.15090773153161,0.017,,,,,,,,,
+covariate_adjusted_marginal,Age_group3,2.0,5.20902044363697,0.0046919241920513,8.70475243545793,0.001,,,,,,,,,
+covariate_adjusted_marginal,Residual,3644.0,1090.3050165616,0.98207110900654,,,,,,,,,,,
+covariate_adjusted_marginal,Total,3658.0,1110.20984790454,1.0,,,,,,,,,,,
+PERMDISP,,,,,,,10s,160.0,0.517463714900992,0.0896683350705015,17.77174812381,0.001,,,
+PERMDISP,,,,,,,20s_40s,3047.0,0.543329681559543,0.0791374465713144,17.77174812381,0.001,,,
+PERMDISP,,,,,,,50s_plus,452.0,0.559225648988016,0.0689348010345278,17.77174812381,0.001,,,
+balanced_subsamples_30x160,PERMANOVA R2,,,,,,,,,,,,0.0154,0.0194,0.0289
+balanced_subsamples_30x160,PERMANOVA P,,,,,,,,,,,,0.001,0.001,0.001
+balanced_subsamples_30x160,PERMDISP F,,,,,,,,,,,,6.9133,11.3087,16.3897
+balanced_subsamples_30x160,PERMDISP P,,,,,,,,,,,,0.001,0.001,0.003
+balanced_subsamples_30x160,"distance to centroid, 10s",,,,,,,,,,,,0.5175,0.5175,0.5175
+balanced_subsamples_30x160,"distance to centroid, 20s–40s",,,,,,,,,,,,0.5282,0.5423,0.5558
+balanced_subsamples_30x160,"distance to centroid, 50s+",,,,,,,,,,,,0.5502,0.5585,0.5669
